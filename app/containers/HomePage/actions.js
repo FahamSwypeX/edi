@@ -30,3 +30,17 @@ export function changeUsername(username) {
     username,
   };
 }
+
+export function setTags(tags) {
+  return {
+    type: 'SET_TAGS',
+    tags,
+  };
+}
+
+export function setLanguage(language) {
+  return {
+    type: 'SET_LANGUAGE',
+    language,
+  };
+}

@@ -4,13 +4,15 @@
  * This is the first thing users see of our App, at the '/' route
  */
 
-import React, { useEffect, memo } from 'react';
+import React, { useEffect, memo, useState } from 'react';
+import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { FormattedMessage } from 'react-intl';
 import { connect } from 'react-redux';
 import { compose } from 'redux';
 import { createStructuredSelector } from 'reselect';
+import Footer from 'components/Footer';
 
 import { useInjectReducer } from 'utils/injectReducer';
 import { useInjectSaga } from 'utils/injectSaga';
@@ -18,85 +20,142 @@ import {
   makeSelectRepos,
   makeSelectLoading,
   makeSelectError,
+  makeSelectTags,
+  makeSelectLanguage,
 } from 'containers/App/selectors';
-import H2 from 'components/H2';
-import ReposList from 'components/ReposList';
-import AtPrefix from './AtPrefix';
-import CenteredSection from './CenteredSection';
-import Form from './Form';
-import Input from './Input';
-import Section from './Section';
+
+import { getAllTags, getAllLanguages } from 'utils/dataReader/dataProcessor';
+
+import Container from '@mui/material/Container';
+import Typography from '@mui/material/Typography';
+import Stack from '@mui/material/Stack';
+import Button from '@mui/material/Button';
+import Box from '@mui/material/Box';
+import Autocomplete from '@mui/material/Autocomplete';
+import TextField from '@mui/material/TextField';
+
 import messages from './messages';
 import { loadRepos } from '../App/actions';
-import { changeUsername } from './actions';
+import { changeUsername, setTags, setLanguage } from './actions';
 import { makeSelectUsername } from './selectors';
 import reducer from './reducer';
 import saga from './saga';
 
 const key = 'home';
 
-export function HomePage({
-  username,
-  loading,
-  error,
-  repos,
-  onSubmitForm,
-  onChangeUsername,
-}) {
+export function HomePage({ username, onSubmitForm, onSetTags, onSetLanguage }) {
   useInjectReducer({ key, reducer });
   useInjectSaga({ key, saga });
+  const [allTags, setAllTags] = useState([{ title: 'Loading...' }]);
+  const [allLanguages, setAllLanguages] = useState([{ title: 'Loading...' }]);
 
   useEffect(() => {
-    // When initial state username is not null, submit the form to load repos
+    setAllTags(getAllTags());
+    setAllLanguages(getAllLanguages());
     if (username && username.trim().length > 0) onSubmitForm();
   }, []);
 
-  const reposListProps = {
-    loading,
-    error,
-    repos,
+  const handleTagSelection = (event, values) => {
+    const selectedTags = values.map(value => value.title);
+    onSetTags(selectedTags);
+  };
+
+  const handleLanguageSelection = (event, value) => {
+    const selectedLanguage = value.title;
+    onSetLanguage(selectedLanguage);
   };
 
   return (
     <article>
       <Helmet>
-        <title>Home Page</title>
+        <title>EDI</title>
         <meta
           name="description"
-          content="A React.js Boilerplate application homepage"
+          content="An application to help doctors communicate with patients who don't speak English."
         />
       </Helmet>
       <div>
-        <CenteredSection>
-          <H2>
-            <FormattedMessage {...messages.startProjectHeader} />
-          </H2>
-          <p>
-            <FormattedMessage {...messages.startProjectMessage} />
-          </p>
-        </CenteredSection>
-        <Section>
-          <H2>
-            <FormattedMessage {...messages.trymeHeader} />
-          </H2>
-          <Form onSubmit={onSubmitForm}>
-            <label htmlFor="username">
-              <FormattedMessage {...messages.trymeMessage} />
-              <AtPrefix>
-                <FormattedMessage {...messages.trymeAtPrefix} />
-              </AtPrefix>
-              <Input
-                id="username"
-                type="text"
-                placeholder="mxstbr"
-                value={username}
-                onChange={onChangeUsername}
+        <Box
+          sx={{
+            bgcolor: 'background.paper',
+            pt: 8,
+            pb: 6,
+          }}
+        >
+          <Container maxWidth="sm">
+            <Typography
+              component="h1"
+              variant="h2"
+              align="center"
+              color="text.primary"
+              gutterBottom
+            >
+              <FormattedMessage {...messages.startProjectHeader} />
+            </Typography>
+            <Typography
+              variant="h5"
+              align="center"
+              color="text.secondary"
+              paragraph
+            >
+              <FormattedMessage {...messages.startProjectMessage} />
+            </Typography>
+            <Stack
+              sx={{ pt: 4 }}
+              direction="column"
+              spacing={2}
+              justifyContent="center"
+            >
+              <Autocomplete
+                sx={{ width: '100%' }}
+                id="tags-standard"
+                options={allLanguages}
+                onChange={handleLanguageSelection}
+                getOptionLabel={option => option.title}
+                renderInput={params => (
+                  <TextField
+                    {...params}
+                    variant="standard"
+                    label="Select Target Language"
+                    placeholder="Language"
+                  />
+                )}
               />
-            </label>
-          </Form>
-          <ReposList {...reposListProps} />
-        </Section>
+              <Autocomplete
+                sx={{ width: '100%' }}
+                multiple
+                id="tags-standard"
+                options={allTags}
+                onChange={handleTagSelection}
+                getOptionLabel={option => option.title}
+                renderInput={params => (
+                  <TextField
+                    {...params}
+                    variant="standard"
+                    label="Select symptoms"
+                    placeholder="Symptoms"
+                  />
+                )}
+              />
+              <div
+                style={{
+                  display: 'flex',
+                  justifyContent: 'center',
+                  alignItems: 'center',
+                  width: '100%',
+                }}
+              >
+                <Link to="/translations" style={{ textDecoration: 'none' }}>
+                  <Button variant="contained" style={{ color: 'white' }}>
+                    Get Questions
+                  </Button>
+                </Link>
+              </div>
+            </Stack>
+          </Container>
+        </Box>
       </div>
+      <Footer />
     </article>
   );
 }
@@ -108,6 +167,8 @@ HomePage.propTypes = {
   onSubmitForm: PropTypes.func,
   username: PropTypes.string,
   onChangeUsername: PropTypes.func,
+  onSetTags: PropTypes.func,
+  onSetLanguage: PropTypes.func,
 };
 
 const mapStateToProps = createStructuredSelector({
@@ -115,6 +176,8 @@ const mapStateToProps = createStructuredSelector({
   username: makeSelectUsername(),
   loading: makeSelectLoading(),
   error: makeSelectError(),
+  tags: makeSelectTags(),
+  language: makeSelectLanguage(),
 });
 
 export function mapDispatchToProps(dispatch) {
@@ -124,6 +187,8 @@ export function mapDispatchToProps(dispatch) {
       if (evt !== undefined && evt.preventDefault) evt.preventDefault();
       dispatch(loadRepos());
     },
+    onSetTags: tags => dispatch(setTags(tags)),
+    onSetLanguage: language => dispatch(setLanguage(language)),
   };
 }
 

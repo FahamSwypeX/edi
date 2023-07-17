@@ -1,0 +1,94 @@
+Subheading,Tags ,English,Urdu,Urdu - Roman, Mandarin , Mandarin - Roman,Spanish,Spanish - Roman
+History,"Cough, Dyspnea, Chest pain",Do you have a cough?,Test,TEst,test,test,test,tset
+History,"Cough, ",Is your cough worse in a certain body position? (lying down),Test,TEst,test,test,test,tset
+History,"Cough, Rhinorrhea",Is your cough worse in any season?,Test,TEst,test,test,test,tset
+History,Cough,Is your cough worse in the cold?,Test,TEst,test,test,test,tset
+History,"Cough, Hemoptysis",Do you see blood after you cough? After you vomit?,Test,TEst,test,test,test,tset
+History,B-symptoms,Fever?,Test,TEst,test,test,test,tset
+History,B-symptoms,Chills?,Test,TEst,test,test,test,tset
+History,B-symptoms,Unexpected weight loss?,Test,TEst,test,test,test,tset
+History,B-symptoms,Night sweats?,Test,TEst,test,test,test,tset
+History,B-symptoms,Fatigue?,Test,TEst,test,test,test,tset
+History,"Rhinorrhea, cough",Do you feel mucus secretions that drip down the back of your throat?,Test,TEst,test,test,test,tset
+History,"Cough, rhinorrhea",Do you feel the need to clear your throat?,Test,TEst,test,test,test,tset
+History,"Cough, Chest pain, Abdominal pain",GERD symptoms? (see GERD),Test,TEst,test,test,test,tset
+History,Cough,Do you have sputum production?,Test,TEst,test,test,test,tset
+History,Cough,What colour is your sputum?  Is it blood-tinged?,Test,TEst,test,test,test,tset
+History,Dyspnea,Do you feel short of breath? At rest? At night? Worse laying down?,Test,TEst,test,test,test,tset
+History,Dyspnea,How many pillows do you sleep on at night?,Test,TEst,test,test,test,tset
+History,Dyspnea,How many stairs can you climb before feeling short of breath?,Test,TEst,test,test,test,tset
+History,Dyspnea,Does your shortness of breath wake you up from sleep?,Test,TEst,test,test,test,tset
+History,"Dyspnea, Leg pain",Do you have unilateral leg swelling?,Test,TEst,test,test,test,tset
+History,"Dyspnea, Leg pain",Do you have pain in your legs? Arms?,Test,TEst,test,test,test,tset
+History,"Dyspnea, Leg pain",Have you recently been hospitalized or had surgery?,Test,TEst,test,test,test,tset
+History,Dyspnea,Have you recently been bedridden for a long period of time?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Worse with food? Worse with odours? Emotions?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Do you have any animals at home?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough, rhinorrhea, congestion, itchy eyes, anaphylaxis",Do you get hives?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough, rhinorrhea, congestion, itchy eyes, anaphylaxis",Swelling of face/throat?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Do you have a diagnosis of asthma?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Have you ever been diagnosed with lung cancer?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",History of TB?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Did you have contact with anybody sick recently?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Did you have contact with anybody from another country recently?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough, rhinorrhea, congestion, itchy eyes, anaphylaxis",History of nasal polyps?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough, rhinorrhea, congestion, itchy eyes, anaphylaxis",Do you have allergies?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Family history of: lung cancer? Interstitial lung disease? Cystic fibrosis? Alpha-1 antitrypsin?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Did you work on a farm? Shipyard? Mining? Factory? Construction?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",History of bird exposure?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Did you grow up on a farm?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Have you visited from another country recently?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Asbestos exposure? ,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Smoking history? How many packs of cigarettes per day?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Do you use puffers?,Test,TEst,test,test,test,tset
+History,"Dyspnea, cough",Do you use blood thinners?,Test,TEst,test,test,test,tset
+History,"Wheezing, cough",Is your cough exercise induced?,Test,TEst,test,test,test,tset
+Physical Exam,"Cough, wheezing, dyspnea, rhinorrhea, congestion",Can I perform a physical exam of your lungs?,Test,TEst,test,test,test,tset
+Physical Exam,"Cough, wheezing, dyspnea, rhinorrhea, congestion","Auscultate: Can you take a deep breath in and out through your mouth, as I listen with my stethoscope?",Test,TEst,test,test,test,tset
+Differentials,"Cough, wheezing, dyspnea, rhinorrhea, congestion",Asthma,Test,TEst,test,test,test,tset
+Differentials,"Cough, wheezing, dyspnea",Airway obstruction,Test,TEst,test,test,test,tset
+Differentials,"Cough, wheezing, dyspnea, B symptoms, Hemoptysis",Mass,Test,TEst,test,test,test,tset
+Differentials,"Cough, wheezing, dyspnea, chest pain, Hemoptysis",PE,Test,TEst,test,test,test,tset
+Differentials,"Cough, wheezing, dyspnea",COPD,Test,TEst,test,test,test,tset
+Differentials,"Dyspnea, chest pain",Pleural effusion,Test,TEst,test,test,test,tset
+Differentials,"Dyspnea, chest pain",Pneumothorax,Test,TEst,test,test,test,tset
+Differentials,"Cough, wheezing, B symptoms",Pneumonia,Test,TEst,test,test,test,tset
+Differentials,"Cough, wheezing, dyspnea",Pulmonary edema,Test,TEst,test,test,test,tset
+Differentials,"Cough, wheezing, dyspnea",CHF,Test,TEst,test,test,test,tset
+Differentials,"Chest pain, dyspnea",Panic attack,Test,TEst,test,test,test,tset
+Differentials,"Dyspnea, chest pain, vital sign abnormalities, Hemoptysis",Chest trauma,Test,TEst,test,test,test,tset
+Differentials,"Dyspnea, polyuria",DKA,Test,TEst,test,test,test,tset
+Differentials,"Dyspnea, cough, wheezing, chest pain, Hemoptysis",Toxin inhalation,Test,TEst,test,test,test,tset
+Differentials,"Dyspnea, cough, wheezing, rhinorrhea, congestion, itchy eyes",Allergic reaction,Test,TEst,test,test,test,tset
+Differentials,"Congestion, rhinorrhea, cough, facial pain, headache, ",Sinusitis,Test,TEst,test,test,test,tset
+Differentials,"Cough, hemoptysis, B symptoms",Tuberculosis,Test,TEst,test,test,test,tset
+Differentials,,Foreign Body Aspiration,Test,TEst,test,test,test,tset
+Investigations,#ALL DIFFERENTIALS - RESP & CARDIO,"Chest X-Ray: you can go to this center for a chest x-ray. We are going to see if there are infections, fluids, or masses in your lungs.",Test,TEst,test,test,test,tset
+Investigations,"Pneumonia (recurrent), Mass, Foreign body aspiration",CT chest: I am sending you for a CT of your chest because your medical history requires a more comprehensive look at your chest and lungs. You will go to this center.,Test,TEst,test,test,test,tset
+Investigations,Sinusitis,X-ray of paranasal sinuses: you can go to this center for an x-ray of the sinuses in your head. These are empty spaces made of bone that everyone has.,Test,TEst,test,test,test,tset
+Investigations,#ALL DIFFERENTIALS,Bloodwork - Go to this lab and they will draw your blood.,Test,TEst,test,test,test,tset
+Investigations,Tuberculosis,"tuberculin skin test - We will prick your skin and you will return in 2 days to check. If it gets big, it may mean that you have been exposed to tuberculosis. Have you ever received the bCG vaccine?",Test,TEst,test,test,test,tset
+Investigations,"Pneumonia, Tuberculosis, URTI",Sputum exam - we will take a swab of your nostrils and/or back of throat to check for X infection.,Test,TEst,test,test,test,tset
+Investigations,"CHF, pulmonary edema, #ALL DIFFENTIALS - CARDIO",ECHO - We will refer you to a cardiology doctor to take a look at your heart’s function with an ultrasound,Test,TEst,test,test,test,tset
+Investigations,"Foreign body aspiration, mass",Bronchoscopy - We will refer you to a respirologist/ENT doctor to take a look inside your airways with a tube and camera.,Test,TEst,test,test,test,tset
+Investigations,"CHF, pulmonary edema, arrythmia****** COME BACK TO THIS",ECG - Go to this lab to do ECG.,Test,TEst,test,test,test,tset
+Treatments,"URTI, Pneumonia, Sinusitis","Supportive:
+You can buy over-the-counter cough suppressants for a nocturnal dry cough.
+Drink a lot of fluids.
+Avoid transmission by wearing a mask, taking sick days as needed, and cleaning surfaces at home.",Test,TEst,test,test,test,tset
+Treatments,Allergic reaction,"Allergies:
+Avoid sleeping with pets.
+Avoid exposure to environmental allergens.
+Get over the counter nasal rinses and rinse your nose every night.
+Take over-the-counter Benadryl or Cetirizine. Benadryl can make you sleepy.",Test,TEst,test,test,test,tset
+Treatments,"Pneumonia, Tuberculosis, Sinusitis","Take these antibiotics for this many days. Take this many per day until you finish the course. Even if you get better, make sure to finish your full course. If your symptoms do not get better, please come back.",Test,TEst,test,test,test,tset
+Treatments,"Asthma, COPD",Short-acting inhalers: Take this puffer everytime you experience symptoms (like wheezing).,Test,TEst,test,test,test,tset
+Treatments,Asthma,"ICS: Take this puffer every day, ie in the morning. It will help your airways in the long term, so make sure you take it everyday",Test,TEst,test,test,test,tset
+Treatments,"Asthma, COPD, Pneumonia",Chest physiotherapy: We will refer you to a physiotherapist to help clear out the mucus in your airways.,Test,TEst,test,test,test,tset
+Treatments,,,Test,TEst,test,test,test,tset
+Treatments,,,Test,TEst,test,test,test,tset
+Treatments,,,Test,TEst,test,test,test,tset
+Treatments,,,Test,TEst,test,test,test,tset
+Treatments,,,Test,TEst,test,test,test,tset
+Treatments,,,Test,TEst,test,test,test,tset
+Treatments,,,Test,TEst,test,test,test,tset

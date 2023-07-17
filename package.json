@@ -10,7 +10,7 @@
     "npm": ">=5",
     "node": ">=8.15.1"
   },
-  "author": "Max Stoiber",
+  "author": "Faham Khan",
   "license": "MIT",
   "scripts": {
     "analyze:clean": "rimraf stats.json",
@@ -42,13 +42,19 @@
     "test": "cross-env NODE_ENV=test jest --coverage",
     "test:watch": "cross-env NODE_ENV=test jest --watchAll",
     "coveralls": "cat ./coverage/lcov.info | coveralls",
-    "prettify": "prettier --write"
+    "prettify": "prettier --write",
+    "convert": "node ./scripts/createJSON.js"
   },
   "browserslist": [
     "last 2 versions",
     "> 1%",
     "IE 10"
   ],
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
   "lint-staged": {
     "*.js": [
       "npm run lint:eslint:fix",
@@ -73,22 +79,27 @@
     "compression": "1.7.4",
     "connected-react-router": "6.4.0",
     "cross-env": "5.2.0",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
     "express": "4.16.4",
     "fontfaceobserver": "2.1.0",
+    "fs": "^0.0.1-security",
     "history": "4.9.0",
     "hoist-non-react-statics": "3.3.0",
     "immer": "3.0.0",
     "intl": "1.2.5",
     "invariant": "2.2.4",
     "ip": "1.1.5",
+    "jsonfile": "^6.1.0",
     "lodash": "4.17.11",
     "minimist": "1.2.0",
+    "papaparse": "^5.4.1",
     "prop-types": "15.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "6.0.0-beta",
     "react-intl": "2.8.0",
-    "react-redux": "7.0.2",
+    "react-redux": "^8.1.1",
     "react-router-dom": "5.0.0",
     "recharts": "^2.7.2",
     "redux": "4.0.1",

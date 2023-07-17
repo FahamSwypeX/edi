@@ -1,0 +1,2010 @@
+[
+    {
+        "id": 1,
+        "Subheading": "History",
+        "Tags": [
+            "Cough",
+            "Dyspnea",
+            "Chest pain"
+        ],
+        "English": "Do you have a cough?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "Subheading": "History",
+        "Tags": [
+            "Cough,"
+        ],
+        "English": "Is your cough worse in a certain body position? (lying down)",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "Subheading": "History",
+        "Tags": [
+            "Cough",
+            "Rhinorrhea"
+        ],
+        "English": "Is your cough worse in any season?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "Subheading": "History",
+        "Tags": [
+            "Cough"
+        ],
+        "English": "Is your cough worse in the cold?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "Subheading": "History",
+        "Tags": [
+            "Cough",
+            "Hemoptysis"
+        ],
+        "English": "Do you see blood after you cough? After you vomit?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "Subheading": "History",
+        "Tags": [
+            "B-symptoms"
+        ],
+        "English": "Fever?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "Subheading": "History",
+        "Tags": [
+            "B-symptoms"
+        ],
+        "English": "Chills?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "Subheading": "History",
+        "Tags": [
+            "B-symptoms"
+        ],
+        "English": "Unexpected weight loss?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "Subheading": "History",
+        "Tags": [
+            "B-symptoms"
+        ],
+        "English": "Night sweats?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "Subheading": "History",
+        "Tags": [
+            "B-symptoms"
+        ],
+        "English": "Fatigue?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "Subheading": "History",
+        "Tags": [
+            "Rhinorrhea",
+            "cough"
+        ],
+        "English": "Do you feel mucus secretions that drip down the back of your throat?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "Subheading": "History",
+        "Tags": [
+            "Cough",
+            "rhinorrhea"
+        ],
+        "English": "Do you feel the need to clear your throat?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "Subheading": "History",
+        "Tags": [
+            "Cough",
+            "Chest pain",
+            "Abdominal pain"
+        ],
+        "English": "GERD symptoms? (see GERD)",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "Subheading": "History",
+        "Tags": [
+            "Cough"
+        ],
+        "English": "Do you have sputum production?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "Subheading": "History",
+        "Tags": [
+            "Cough"
+        ],
+        "English": "What colour is your sputum?  Is it blood-tinged?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea"
+        ],
+        "English": "Do you feel short of breath? At rest? At night? Worse laying down?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 17,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea"
+        ],
+        "English": "How many pillows do you sleep on at night?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 18,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea"
+        ],
+        "English": "How many stairs can you climb before feeling short of breath?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 19,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea"
+        ],
+        "English": "Does your shortness of breath wake you up from sleep?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 20,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea",
+            "Leg pain"
+        ],
+        "English": "Do you have unilateral leg swelling?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 21,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea",
+            "Leg pain"
+        ],
+        "English": "Do you have pain in your legs? Arms?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 22,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea",
+            "Leg pain"
+        ],
+        "English": "Have you recently been hospitalized or had surgery?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 23,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea"
+        ],
+        "English": "Have you recently been bedridden for a long period of time?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 24,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Worse with food? Worse with odours? Emotions?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 25,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Do you have any animals at home?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 26,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough",
+            "rhinorrhea",
+            "congestion",
+            "itchy eyes",
+            "anaphylaxis"
+        ],
+        "English": "Do you get hives?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 27,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough",
+            "rhinorrhea",
+            "congestion",
+            "itchy eyes",
+            "anaphylaxis"
+        ],
+        "English": "Swelling of face/throat?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 28,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Do you have a diagnosis of asthma?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 29,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Have you ever been diagnosed with lung cancer?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 30,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "History of TB?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 31,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Did you have contact with anybody sick recently?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 32,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Did you have contact with anybody from another country recently?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 33,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough",
+            "rhinorrhea",
+            "congestion",
+            "itchy eyes",
+            "anaphylaxis"
+        ],
+        "English": "History of nasal polyps?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 34,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough",
+            "rhinorrhea",
+            "congestion",
+            "itchy eyes",
+            "anaphylaxis"
+        ],
+        "English": "Do you have allergies?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 35,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Family history of: lung cancer? Interstitial lung disease? Cystic fibrosis? Alpha-1 antitrypsin?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 36,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Did you work on a farm? Shipyard? Mining? Factory? Construction?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 37,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "History of bird exposure?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 38,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Did you grow up on a farm?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 39,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Have you visited from another country recently?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 40,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Asbestos exposure?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 41,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Smoking history? How many packs of cigarettes per day?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 42,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Do you use puffers?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 43,
+        "Subheading": "History",
+        "Tags": [
+            "Dyspnea",
+            "cough"
+        ],
+        "English": "Do you use blood thinners?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 44,
+        "Subheading": "History",
+        "Tags": [
+            "Wheezing",
+            "cough"
+        ],
+        "English": "Is your cough exercise induced?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 45,
+        "Subheading": "Physical Exam",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea",
+            "rhinorrhea",
+            "congestion"
+        ],
+        "English": "Can I perform a physical exam of your lungs?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 46,
+        "Subheading": "Physical Exam",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea",
+            "rhinorrhea",
+            "congestion"
+        ],
+        "English": "Auscultate: Can you take a deep breath in and out through your mouth, as I listen with my stethoscope?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 47,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea",
+            "rhinorrhea",
+            "congestion"
+        ],
+        "English": "Asthma",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 48,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea"
+        ],
+        "English": "Airway obstruction",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 49,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea",
+            "B symptoms",
+            "Hemoptysis"
+        ],
+        "English": "Mass",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 50,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea",
+            "chest pain",
+            "Hemoptysis"
+        ],
+        "English": "PE",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 51,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea"
+        ],
+        "English": "COPD",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 52,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Dyspnea",
+            "chest pain"
+        ],
+        "English": "Pleural effusion",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 53,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Dyspnea",
+            "chest pain"
+        ],
+        "English": "Pneumothorax",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 54,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "B symptoms"
+        ],
+        "English": "Pneumonia",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 55,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea"
+        ],
+        "English": "Pulmonary edema",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 56,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "wheezing",
+            "dyspnea"
+        ],
+        "English": "CHF",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 57,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Chest pain",
+            "dyspnea"
+        ],
+        "English": "Panic attack",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 58,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Dyspnea",
+            "chest pain",
+            "vital sign abnormalities",
+            "Hemoptysis"
+        ],
+        "English": "Chest trauma",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 59,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Dyspnea",
+            "polyuria"
+        ],
+        "English": "DKA",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 60,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Dyspnea",
+            "cough",
+            "wheezing",
+            "chest pain",
+            "Hemoptysis"
+        ],
+        "English": "Toxin inhalation",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 61,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Dyspnea",
+            "cough",
+            "wheezing",
+            "rhinorrhea",
+            "congestion",
+            "itchy eyes"
+        ],
+        "English": "Allergic reaction",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 62,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Congestion",
+            "rhinorrhea",
+            "cough",
+            "facial pain",
+            "headache,"
+        ],
+        "English": "Sinusitis",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 63,
+        "Subheading": "Differentials",
+        "Tags": [
+            "Cough",
+            "hemoptysis",
+            "B symptoms"
+        ],
+        "English": "Tuberculosis",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 64,
+        "Subheading": "Differentials",
+        "Tags": [
+            ""
+        ],
+        "English": "Foreign Body Aspiration",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 65,
+        "Subheading": "Investigations",
+        "Tags": [
+            "#ALL DIFFERENTIALS - RESP & CARDIO"
+        ],
+        "English": "Chest X-Ray: you can go to this center for a chest x-ray. We are going to see if there are infections, fluids, or masses in your lungs.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 66,
+        "Subheading": "Investigations",
+        "Tags": [
+            "Pneumonia (recurrent)",
+            "Mass",
+            "Foreign body aspiration"
+        ],
+        "English": "CT chest: I am sending you for a CT of your chest because your medical history requires a more comprehensive look at your chest and lungs. You will go to this center.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 67,
+        "Subheading": "Investigations",
+        "Tags": [
+            "Sinusitis"
+        ],
+        "English": "X-ray of paranasal sinuses: you can go to this center for an x-ray of the sinuses in your head. These are empty spaces made of bone that everyone has.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 68,
+        "Subheading": "Investigations",
+        "Tags": [
+            "#ALL DIFFERENTIALS"
+        ],
+        "English": "Bloodwork - Go to this lab and they will draw your blood.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 69,
+        "Subheading": "Investigations",
+        "Tags": [
+            "Tuberculosis"
+        ],
+        "English": "tuberculin skin test - We will prick your skin and you will return in 2 days to check. If it gets big, it may mean that you have been exposed to tuberculosis. Have you ever received the bCG vaccine?",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 70,
+        "Subheading": "Investigations",
+        "Tags": [
+            "Pneumonia",
+            "Tuberculosis",
+            "URTI"
+        ],
+        "English": "Sputum exam - we will take a swab of your nostrils and/or back of throat to check for X infection.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 71,
+        "Subheading": "Investigations",
+        "Tags": [
+            "CHF",
+            "pulmonary edema",
+            "#ALL DIFFENTIALS - CARDIO"
+        ],
+        "English": "ECHO - We will refer you to a cardiology doctor to take a look at your heart’s function with an ultrasound",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 72,
+        "Subheading": "Investigations",
+        "Tags": [
+            "Foreign body aspiration",
+            "mass"
+        ],
+        "English": "Bronchoscopy - We will refer you to a respirologist/ENT doctor to take a look inside your airways with a tube and camera.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 73,
+        "Subheading": "Investigations",
+        "Tags": [
+            "CHF",
+            "pulmonary edema",
+            "arrythmia****** COME BACK TO THIS"
+        ],
+        "English": "ECG - Go to this lab to do ECG.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 74,
+        "Subheading": "Treatments",
+        "Tags": [
+            "URTI",
+            "Pneumonia",
+            "Sinusitis"
+        ],
+        "English": "Supportive:\nYou can buy over-the-counter cough suppressants for a nocturnal dry cough.\nDrink a lot of fluids.\nAvoid transmission by wearing a mask, taking sick days as needed, and cleaning surfaces at home.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 75,
+        "Subheading": "Treatments",
+        "Tags": [
+            "Allergic reaction"
+        ],
+        "English": "Allergies:\nAvoid sleeping with pets.\nAvoid exposure to environmental allergens.\nGet over the counter nasal rinses and rinse your nose every night.\nTake over-the-counter Benadryl or Cetirizine. Benadryl can make you sleepy.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 76,
+        "Subheading": "Treatments",
+        "Tags": [
+            "Pneumonia",
+            "Tuberculosis",
+            "Sinusitis"
+        ],
+        "English": "Take these antibiotics for this many days. Take this many per day until you finish the course. Even if you get better, make sure to finish your full course. If your symptoms do not get better, please come back.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 77,
+        "Subheading": "Treatments",
+        "Tags": [
+            "Asthma",
+            "COPD"
+        ],
+        "English": "Short-acting inhalers: Take this puffer everytime you experience symptoms (like wheezing).",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 78,
+        "Subheading": "Treatments",
+        "Tags": [
+            "Asthma"
+        ],
+        "English": "ICS: Take this puffer every day, ie in the morning. It will help your airways in the long term, so make sure you take it everyday",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 79,
+        "Subheading": "Treatments",
+        "Tags": [
+            "Asthma",
+            "COPD",
+            "Pneumonia"
+        ],
+        "English": "Chest physiotherapy: We will refer you to a physiotherapist to help clear out the mucus in your airways.",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 80,
+        "Subheading": "Treatments",
+        "Tags": [
+            ""
+        ],
+        "English": "",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 81,
+        "Subheading": "Treatments",
+        "Tags": [
+            ""
+        ],
+        "English": "",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 82,
+        "Subheading": "Treatments",
+        "Tags": [
+            ""
+        ],
+        "English": "",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 83,
+        "Subheading": "Treatments",
+        "Tags": [
+            ""
+        ],
+        "English": "",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 84,
+        "Subheading": "Treatments",
+        "Tags": [
+            ""
+        ],
+        "English": "",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 85,
+        "Subheading": "Treatments",
+        "Tags": [
+            ""
+        ],
+        "English": "",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    },
+    {
+        "id": 86,
+        "Subheading": "Treatments",
+        "Tags": [
+            ""
+        ],
+        "English": "",
+        "Translations": {
+            "Urdu": {
+                "Translation": "Test",
+                "RomanTranslation": "TEst"
+            },
+            "Mandarin": {
+                "Translation": "test",
+                "RomanTranslation": "test"
+            },
+            "Spanish": {
+                "Translation": "test",
+                "RomanTranslation": "tset"
+            }
+        }
+    }
+]

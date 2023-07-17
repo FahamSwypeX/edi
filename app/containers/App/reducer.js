@@ -18,6 +18,8 @@ export const initialState = {
   userData: {
     repositories: false,
   },
+  tags: [],
+  language: '',
 };
 
 /* eslint-disable default-case, no-param-reassign */
@@ -39,6 +41,12 @@ const appReducer = (state = initialState, action) =>
       case LOAD_REPOS_ERROR:
         draft.error = action.error;
         draft.loading = false;
+        break;
+      case 'SET_TAGS':
+        draft.tags = action.tags;
+        break;
+      case 'SET_LANGUAGE':
+        draft.language = action.language;
         break;
     }
   });

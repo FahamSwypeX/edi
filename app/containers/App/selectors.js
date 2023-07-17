@@ -39,6 +39,18 @@ const makeSelectLocation = () =>
     routerState => routerState.location,
   );
 
+const makeSelectTags = () =>
+  createSelector(
+    selectGlobal,
+    globalState => globalState.tags,
+  );
+
+const makeSelectLanguage = () =>
+  createSelector(
+    selectGlobal,
+    globalState => globalState.language,
+  );
+
 export {
   selectGlobal,
   makeSelectCurrentUser,
@@ -46,4 +58,6 @@ export {
   makeSelectError,
   makeSelectRepos,
   makeSelectLocation,
+  makeSelectTags,
+  makeSelectLanguage,
 };
